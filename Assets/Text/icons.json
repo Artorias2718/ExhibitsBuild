@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "name": "PortraitSample.jpg",
+    "location": {
+      "xPos": 0,
+      "yPos": 0
+    }
+  },
+  {
+    "id": 1,
+    "name": "BackgroundSample.jpg",
+    "location": {
+      "xPos": 0,
+      "yPos": 0
+    }
+  }
+]
