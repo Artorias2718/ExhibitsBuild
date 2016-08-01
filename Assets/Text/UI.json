@@ -1,14 +1,6 @@
 [
   {
     "id": 0,
-    "name": "Background.jpg",
-    "location": {
-      "xPos": 0,
-      "yPos": 0
-    }
-  },
-  {
-    "id": 1,
     "name": "AlcockBrown.png",
     "location": {
       "xPos": 658,
@@ -16,11 +8,19 @@
     }
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "Acosta.png",
     "location": {
       "xPos": 282,
       "yPos": 259
+    }
+   },
+    {
+     "id": 2,
+     "name": "Background.jpg",
+     "location": {
+      "xPos": 0,
+      "yPos": 0
     }
   }
 ]
